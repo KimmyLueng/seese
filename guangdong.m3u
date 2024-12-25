@@ -1,4 +1,36 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://content.stream-link.org/images/cctv_2.png" group-title="中國",CCTV2
+http://222.217.230.193:8181/tsfile/live/faacts/0002_1.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://content.stream-link.org/images/cctv_3.png" group-title="中國",CCTV3
+http://222.217.230.193:8181/tsfile/live/faacts/0003_1.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://content.stream-link.org/images/cctv_4.png" group-title="中國",CCTV4
+http://222.217.230.193:8181/tsfile/live/faacts/0004_1.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://content.stream-link.org/images/cctv_6.png" group-title="中國",CCTV6
+http://222.217.230.193:8181/tsfile/live/faacts/0006_1.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://content.stream-link.org/images/cctv_7.png" group-title="中國",CCTV7
+http://222.217.230.193:8181/tsfile/live/faacts/0007_1.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://content.stream-link.org/images/cctv_8.png" group-title="中國",CCTV8
+http://222.217.230.193:8181/tsfile/live/faacts/0008_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://content.stream-link.org/images/cctv_9.png" group-title="中國",CCTV9
+http://222.217.230.193:8181/tsfile/live/faacts/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://content.stream-link.org/images/cctv_10.png" group-title="中國",CCTV10
+http://222.217.230.193:8181/tsfile/live/faacts/00010_1.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://content.stream-link.org/images/cctv_11.png" group-title="中國",CCTV11
+http://222.217.230.193:8181/tsfile/live/faacts/00011_1.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://content.stream-link.org/images/cctv_12.png" group-title="中國",CCTV12
+http://222.217.230.193:8181/tsfile/live/faacts/00012_1.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://content.stream-link.org/images/cctv_14.png" group-title="中國",CCTV14
+http://222.217.230.193:8181/tsfile/live/faacts/00014_1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://content.stream-link.org/images/cctv_15.png" group-title="中國",CCTV15
+http://222.217.230.193:8181/tsfile/live/faacts/00015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://content.stream-link.org/images/cctv_17.png" group-title="中國",CCTV17
+http://222.217.230.193:8181/tsfile/live/faacts/00017_1.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="广州电视台综合频道" tvg-logo="https://live.fanmingming.com/tv/广州电视台综合频道.png" group-title="广东频道",广州电视台综合频道
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
 #EXTINF:-1 tvg-name="广州电视台影视频道" tvg-logo="https://live.fanmingming.com/tv/广州电视台影视频道.png" group-title="广东频道",广州电视台影视频道
