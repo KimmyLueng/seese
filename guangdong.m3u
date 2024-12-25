@@ -41,23 +41,3 @@ http://222.217.230.193:8181/tsfile/live/1027_1.m3u8
 http://222.217.230.193:8181/tsfile/live/1028_1.m3u8
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png" group-title="廣東",岭南戏曲
 http://222.217.230.193:8181/tsfile/live/1035_1.m3u8
-#EXTINF:-1 tvg-name="广州电视台综合频道" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="廣東",广州电视台综合频道
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=6d9c0311929fc12857f6b810fab0188b&txTime=1913a3ed516
-#EXTINF:-1 tvg-name="广州电视台影视频道" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="廣東",广州电视台影视频道
-https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7de8fab481a30d66739436dd1531e73a&txTime=1913a714af3
-#EXTINF:-1 tvg-name="广州电视台新闻频道" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="廣東",广州电视台新闻频道
-https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=3f108a7c44d7a42c24a30324649a1e2d&txTime=1913a355160
-#EXTINF:-1 tvg-name="广州竞赛频道" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="廣東",广州竞赛频道
-https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=057c43946c61f665a7cbbfef9f228555&txTime=1913a1cfc6d
-#EXTINF:-1 tvg-name="广州电视台法治频道" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="廣東",广州电视台法治频道
-https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c85f24077bcfc9b0630c51843a66c5dd&txTime=1913a22caa6
-#EXTINF:-1 tvg-name="广州南国都市频道" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="廣東",广州南国都市频道
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=1459b96d30bd4299e4d0d8739998cf47&txTime=1913a67b210
-#EXTINF:-1 tvg-name="梅州一套综合频道" tvg-logo="https://live.fanmingming.com/tv/梅州一套综合频道.png" group-title="廣東",梅州一套综合频道
-http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
-#EXTINF:-1 tvg-name="梅州二套公共频道" tvg-logo="https://live.fanmingming.com/tv/梅州二套公共频道.png" group-title="廣東",梅州二套公共频道
-http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
-#EXTINF:-1 tvg-name="河源综合频道" tvg-logo="https://live.fanmingming.com/tv/河源综合频道.png" group-title="廣東",河源综合频道
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="河源公共频道" tvg-logo="https://live.fanmingming.com/tv/河源公共频道.png" group-title="廣東",河源公共频道
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
